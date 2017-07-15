@@ -2,3 +2,7 @@ my_model\.h5
 
 dataset/*
 custom_test/
+
+model_backups/
+shoes/
+pretrained_models/
