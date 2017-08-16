@@ -7,3 +7,7 @@ model_backups/
 shoes/
 pretrained_models/
 models_backups/
+dataset_full_resolution/*
+dataset_full_resolution/
+dataset_normal/
+saved_models/
