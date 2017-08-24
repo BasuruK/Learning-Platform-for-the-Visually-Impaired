@@ -9,5 +9,7 @@ pretrained_models/
 models_backups/
 dataset_full_resolution/*
 dataset_full_resolution/
-dataset_normal/
+dataset_cifar/
 saved_models/
+cifar-10 Image extractor*
+Region Proposal*
